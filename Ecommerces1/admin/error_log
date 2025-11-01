@@ -1,0 +1,149 @@
+[08-Oct-2025 08:40:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/tugaspabw/public_html/2414101039.tugaspabw.site/admin/login.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tugaspabw/public_html/2414101039.tugaspabw.site/admin/login.php on line 18
+[08-Oct-2025 09:10:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/tugaspabw/public_html/2414101039.tugaspabw.site/admin/login.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tugaspabw/public_html/2414101039.tugaspabw.site/admin/login.php on line 18
+[13-Oct-2025 04:14:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/tugaspabw/public_html/2414101039.tugaspabw.site/admin/login.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tugaspabw/public_html/2414101039.tugaspabw.site/admin/login.php on line 18
+[13-Oct-2025 07:22:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/tugaspabw/public_html/2414101039.tugaspabw.site/admin/login.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tugaspabw/public_html/2414101039.tugaspabw.site/admin/login.php on line 18
+[13-Oct-2025 07:36:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/tugaspabw/public_html/2414101039.tugaspabw.site/admin/login.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tugaspabw/public_html/2414101039.tugaspabw.site/admin/login.php on line 18
+[20-Oct-2025 07:45:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/tugaspabw/public_html/2414101039.tugaspabw.site/admin/login.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tugaspabw/public_html/2414101039.tugaspabw.site/admin/login.php on line 18
+[24-Oct-2025 08:07:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/tugaspabw/public_html/2414101039.tugaspabw.site/admin/login.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tugaspabw/public_html/2414101039.tugaspabw.site/admin/login.php on line 18
+[25-Oct-2025 00:47:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/tugaspabw/public_html/2414101039.tugaspabw.site/admin/login.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/tugaspabw/public_html/2414101039.tugaspabw.site/admin/login.php on line 18
+[25-Oct-2025 00:52:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/tugaspabw/public_html/2414101039.tugaspabw.site/admin/produk_form.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/tugaspabw/public_html/2414101039.tugaspabw.site/admin/produk_form.php on line 20
+[01-Nov-2025 10:39:05 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/tugaspabw/public_html/2414101050.tugaspabw.site/Ecommerces1/admin/db.php on line 7
+[01-Nov-2025 10:41:00 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/tugaspabw/public_html/2414101050.tugaspabw.site/Ecommerces1/admin/db.php on line 7
+[01-Nov-2025 10:41:02 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/tugaspabw/public_html/2414101050.tugaspabw.site/Ecommerces1/admin/db.php on line 7
+[01-Nov-2025 10:41:03 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/tugaspabw/public_html/2414101050.tugaspabw.site/Ecommerces1/admin/db.php on line 7
+[01-Nov-2025 10:44:27 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/tugaspabw/public_html/2414101050.tugaspabw.site/Ecommerces1/admin/db.php on line 7
+[01-Nov-2025 10:44:29 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/tugaspabw/public_html/2414101050.tugaspabw.site/Ecommerces1/admin/db.php on line 7
+[01-Nov-2025 10:44:29 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/tugaspabw/public_html/2414101050.tugaspabw.site/Ecommerces1/admin/db.php on line 7
+[01-Nov-2025 10:44:29 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/tugaspabw/public_html/2414101050.tugaspabw.site/Ecommerces1/admin/db.php on line 7
+[01-Nov-2025 10:44:29 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/tugaspabw/public_html/2414101050.tugaspabw.site/Ecommerces1/admin/db.php on line 7
+[01-Nov-2025 10:44:30 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/tugaspabw/public_html/2414101050.tugaspabw.site/Ecommerces1/admin/db.php on line 7
+[01-Nov-2025 10:44:30 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/tugaspabw/public_html/2414101050.tugaspabw.site/Ecommerces1/admin/db.php on line 7
+[01-Nov-2025 10:44:35 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/tugaspabw/public_html/2414101050.tugaspabw.site/Ecommerces1/admin/db.php on line 7
+[01-Nov-2025 10:44:36 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/tugaspabw/public_html/2414101050.tugaspabw.site/Ecommerces1/admin/db.php on line 7
+[01-Nov-2025 10:44:36 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/tugaspabw/public_html/2414101050.tugaspabw.site/Ecommerces1/admin/db.php on line 7
+[01-Nov-2025 10:44:36 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/tugaspabw/public_html/2414101050.tugaspabw.site/Ecommerces1/admin/db.php on line 7
+[01-Nov-2025 10:44:36 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/tugaspabw/public_html/2414101050.tugaspabw.site/Ecommerces1/admin/db.php on line 7
+[01-Nov-2025 10:44:37 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/tugaspabw/public_html/2414101050.tugaspabw.site/Ecommerces1/admin/db.php on line 7
+[01-Nov-2025 10:44:37 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/tugaspabw/public_html/2414101050.tugaspabw.site/Ecommerces1/admin/db.php on line 7
+[01-Nov-2025 10:44:37 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/tugaspabw/public_html/2414101050.tugaspabw.site/Ecommerces1/admin/db.php on line 7
+[01-Nov-2025 10:44:37 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/tugaspabw/public_html/2414101050.tugaspabw.site/Ecommerces1/admin/db.php on line 7
+[01-Nov-2025 10:45:51 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/tugaspabw/public_html/2414101050.tugaspabw.site/Ecommerces1/admin/db.php on line 7
+[01-Nov-2025 10:46:57 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/tugaspabw/public_html/2414101050.tugaspabw.site/Ecommerces1/admin/db.php on line 7
+[01-Nov-2025 10:52:15 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/tugaspabw/public_html/2414101050.tugaspabw.site/Ecommerces1/admin/db.php on line 7
+[01-Nov-2025 10:53:55 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/tugaspabw/public_html/2414101050.tugaspabw.site/Ecommerces1/admin/db.php on line 7
+[01-Nov-2025 10:54:58 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/tugaspabw/public_html/2414101050.tugaspabw.site/Ecommerces1/admin/db.php on line 7
+[01-Nov-2025 10:55:00 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/tugaspabw/public_html/2414101050.tugaspabw.site/Ecommerces1/admin/db.php on line 7
+[01-Nov-2025 11:10:42 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/tugaspabw/public_html/2414101050.tugaspabw.site/Ecommerces1/admin/db.php on line 7
+[01-Nov-2025 11:19:59 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/tugaspabw/public_html/2414101050.tugaspabw.site/Ecommerces1/admin/db.php on line 7
+[01-Nov-2025 11:21:58 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/tugaspabw/public_html/2414101050.tugaspabw.site/Ecommerces1/admin/db.php on line 7
+[01-Nov-2025 11:21:59 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/tugaspabw/public_html/2414101050.tugaspabw.site/Ecommerces1/admin/db.php on line 7
+[01-Nov-2025 11:22:34 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/tugaspabw/public_html/2414101050.tugaspabw.site/Ecommerces1/admin/db.php on line 7
+[01-Nov-2025 11:22:34 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/tugaspabw/public_html/2414101050.tugaspabw.site/Ecommerces1/admin/db.php on line 7
+[01-Nov-2025 11:22:35 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/tugaspabw/public_html/2414101050.tugaspabw.site/Ecommerces1/admin/db.php on line 7
+[01-Nov-2025 11:22:35 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/tugaspabw/public_html/2414101050.tugaspabw.site/Ecommerces1/admin/db.php on line 7
+[01-Nov-2025 11:25:47 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/tugaspabw/public_html/2414101050.tugaspabw.site/Ecommerces1/admin/db.php on line 7
+[01-Nov-2025 11:25:49 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/tugaspabw/public_html/2414101050.tugaspabw.site/Ecommerces1/admin/db.php on line 7
+[01-Nov-2025 11:26:33 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/tugaspabw/public_html/2414101050.tugaspabw.site/Ecommerces1/admin/db.php on line 7
+[01-Nov-2025 11:28:18 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/tugaspabw/public_html/2414101050.tugaspabw.site/Ecommerces1/admin/db.php on line 7
+[01-Nov-2025 11:28:21 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/tugaspabw/public_html/2414101050.tugaspabw.site/Ecommerces1/admin/db.php on line 7
+[01-Nov-2025 11:30:10 UTC] PHP Warning:  require_once(config.php): failed to open stream: No such file or directory in /home/tugaspabw/public_html/2414101050.tugaspabw.site/Ecommerces1/admin/login.php on line 7
+[01-Nov-2025 11:30:10 UTC] PHP Fatal error:  require_once(): Failed opening required 'config.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/tugaspabw/public_html/2414101050.tugaspabw.site/Ecommerces1/admin/login.php on line 7
+[01-Nov-2025 11:36:16 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/tugaspabw/public_html/2414101050.tugaspabw.site/Ecommerces1/admin/login.php on line 72
+[01-Nov-2025 11:38:17 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/tugaspabw/public_html/2414101050.tugaspabw.site/Ecommerces1/admin/login.php on line 36
+[01-Nov-2025 11:38:19 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/tugaspabw/public_html/2414101050.tugaspabw.site/Ecommerces1/admin/login.php on line 36
+[01-Nov-2025 11:39:16 UTC] PHP Warning:  require_once(config.php): failed to open stream: No such file or directory in /home/tugaspabw/public_html/2414101050.tugaspabw.site/Ecommerces1/admin/login.php on line 7
+[01-Nov-2025 11:39:16 UTC] PHP Fatal error:  require_once(): Failed opening required 'config.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/tugaspabw/public_html/2414101050.tugaspabw.site/Ecommerces1/admin/login.php on line 7
+[01-Nov-2025 11:39:19 UTC] PHP Warning:  require_once(config.php): failed to open stream: No such file or directory in /home/tugaspabw/public_html/2414101050.tugaspabw.site/Ecommerces1/admin/login.php on line 7
+[01-Nov-2025 11:39:19 UTC] PHP Fatal error:  require_once(): Failed opening required 'config.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/tugaspabw/public_html/2414101050.tugaspabw.site/Ecommerces1/admin/login.php on line 7
+[01-Nov-2025 11:41:10 UTC] PHP Parse error:  syntax error, unexpected ' ' (T_STRING) in /home/tugaspabw/public_html/2414101050.tugaspabw.site/Ecommerces1/admin/login.php on line 4
+[01-Nov-2025 11:41:39 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/tugaspabw/public_html/2414101050.tugaspabw.site/Ecommerces1/admin/login.php on line 53
+[01-Nov-2025 11:41:41 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/tugaspabw/public_html/2414101050.tugaspabw.site/Ecommerces1/admin/login.php on line 53
+[01-Nov-2025 11:41:42 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/tugaspabw/public_html/2414101050.tugaspabw.site/Ecommerces1/admin/login.php on line 53
+[01-Nov-2025 11:41:43 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/tugaspabw/public_html/2414101050.tugaspabw.site/Ecommerces1/admin/login.php on line 53
+[01-Nov-2025 11:43:18 UTC] PHP Warning:  require_once(.configphp): failed to open stream: No such file or directory in /home/tugaspabw/public_html/2414101050.tugaspabw.site/Ecommerces1/admin/index.php on line 5
+[01-Nov-2025 11:43:18 UTC] PHP Fatal error:  require_once(): Failed opening required '.configphp' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/tugaspabw/public_html/2414101050.tugaspabw.site/Ecommerces1/admin/index.php on line 5
+[01-Nov-2025 11:43:19 UTC] PHP Warning:  require_once(.configphp): failed to open stream: No such file or directory in /home/tugaspabw/public_html/2414101050.tugaspabw.site/Ecommerces1/admin/index.php on line 5
+[01-Nov-2025 11:43:19 UTC] PHP Fatal error:  require_once(): Failed opening required '.configphp' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/tugaspabw/public_html/2414101050.tugaspabw.site/Ecommerces1/admin/index.php on line 5
+[01-Nov-2025 11:46:34 UTC] PHP Warning:  require_once(db.php): failed to open stream: No such file or directory in /home/tugaspabw/public_html/2414101050.tugaspabw.site/Ecommerces1/admin/index.php on line 5
+[01-Nov-2025 11:46:34 UTC] PHP Fatal error:  require_once(): Failed opening required 'db.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/tugaspabw/public_html/2414101050.tugaspabw.site/Ecommerces1/admin/index.php on line 5
+[01-Nov-2025 11:46:35 UTC] PHP Warning:  require_once(db.php): failed to open stream: No such file or directory in /home/tugaspabw/public_html/2414101050.tugaspabw.site/Ecommerces1/admin/index.php on line 5
+[01-Nov-2025 11:46:35 UTC] PHP Fatal error:  require_once(): Failed opening required 'db.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/tugaspabw/public_html/2414101050.tugaspabw.site/Ecommerces1/admin/index.php on line 5
+[01-Nov-2025 11:46:37 UTC] PHP Warning:  require_once(db.php): failed to open stream: No such file or directory in /home/tugaspabw/public_html/2414101050.tugaspabw.site/Ecommerces1/admin/index.php on line 5
+[01-Nov-2025 11:46:37 UTC] PHP Fatal error:  require_once(): Failed opening required 'db.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/tugaspabw/public_html/2414101050.tugaspabw.site/Ecommerces1/admin/index.php on line 5
+[01-Nov-2025 11:46:39 UTC] PHP Warning:  require_once(db.php): failed to open stream: No such file or directory in /home/tugaspabw/public_html/2414101050.tugaspabw.site/Ecommerces1/admin/index.php on line 5
+[01-Nov-2025 11:46:39 UTC] PHP Fatal error:  require_once(): Failed opening required 'db.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/tugaspabw/public_html/2414101050.tugaspabw.site/Ecommerces1/admin/index.php on line 5
+[01-Nov-2025 11:48:08 UTC] PHP Warning:  require_once(config.php): failed to open stream: No such file or directory in /home/tugaspabw/public_html/2414101050.tugaspabw.site/Ecommerces1/admin/index.php on line 5
+[01-Nov-2025 11:48:08 UTC] PHP Fatal error:  require_once(): Failed opening required 'config.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/tugaspabw/public_html/2414101050.tugaspabw.site/Ecommerces1/admin/index.php on line 5
+[01-Nov-2025 11:50:55 UTC] PHP Warning:  require_once(config.php): failed to open stream: No such file or directory in /home/tugaspabw/public_html/2414101050.tugaspabw.site/Ecommerces1/admin/index.php on line 5
+[01-Nov-2025 11:50:55 UTC] PHP Fatal error:  require_once(): Failed opening required 'config.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/tugaspabw/public_html/2414101050.tugaspabw.site/Ecommerces1/admin/index.php on line 5
+[01-Nov-2025 11:50:56 UTC] PHP Warning:  require_once(config.php): failed to open stream: No such file or directory in /home/tugaspabw/public_html/2414101050.tugaspabw.site/Ecommerces1/admin/index.php on line 5
+[01-Nov-2025 11:50:56 UTC] PHP Fatal error:  require_once(): Failed opening required 'config.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/tugaspabw/public_html/2414101050.tugaspabw.site/Ecommerces1/admin/index.php on line 5
+[01-Nov-2025 11:50:56 UTC] PHP Warning:  require_once(config.php): failed to open stream: No such file or directory in /home/tugaspabw/public_html/2414101050.tugaspabw.site/Ecommerces1/admin/index.php on line 5
+[01-Nov-2025 11:50:56 UTC] PHP Fatal error:  require_once(): Failed opening required 'config.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/tugaspabw/public_html/2414101050.tugaspabw.site/Ecommerces1/admin/index.php on line 5
+[01-Nov-2025 11:50:56 UTC] PHP Warning:  require_once(config.php): failed to open stream: No such file or directory in /home/tugaspabw/public_html/2414101050.tugaspabw.site/Ecommerces1/admin/index.php on line 5
+[01-Nov-2025 11:50:56 UTC] PHP Fatal error:  require_once(): Failed opening required 'config.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/tugaspabw/public_html/2414101050.tugaspabw.site/Ecommerces1/admin/index.php on line 5
+[01-Nov-2025 11:50:57 UTC] PHP Warning:  require_once(config.php): failed to open stream: No such file or directory in /home/tugaspabw/public_html/2414101050.tugaspabw.site/Ecommerces1/admin/index.php on line 5
+[01-Nov-2025 11:50:57 UTC] PHP Fatal error:  require_once(): Failed opening required 'config.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/tugaspabw/public_html/2414101050.tugaspabw.site/Ecommerces1/admin/index.php on line 5
+[01-Nov-2025 11:50:57 UTC] PHP Warning:  require_once(config.php): failed to open stream: No such file or directory in /home/tugaspabw/public_html/2414101050.tugaspabw.site/Ecommerces1/admin/index.php on line 5
+[01-Nov-2025 11:50:57 UTC] PHP Fatal error:  require_once(): Failed opening required 'config.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/tugaspabw/public_html/2414101050.tugaspabw.site/Ecommerces1/admin/index.php on line 5
+[01-Nov-2025 11:50:57 UTC] PHP Warning:  require_once(config.php): failed to open stream: No such file or directory in /home/tugaspabw/public_html/2414101050.tugaspabw.site/Ecommerces1/admin/index.php on line 5
+[01-Nov-2025 11:50:57 UTC] PHP Fatal error:  require_once(): Failed opening required 'config.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/tugaspabw/public_html/2414101050.tugaspabw.site/Ecommerces1/admin/index.php on line 5
+[01-Nov-2025 11:50:57 UTC] PHP Warning:  require_once(config.php): failed to open stream: No such file or directory in /home/tugaspabw/public_html/2414101050.tugaspabw.site/Ecommerces1/admin/index.php on line 5
+[01-Nov-2025 11:50:57 UTC] PHP Fatal error:  require_once(): Failed opening required 'config.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/tugaspabw/public_html/2414101050.tugaspabw.site/Ecommerces1/admin/index.php on line 5
+[01-Nov-2025 11:50:57 UTC] PHP Warning:  require_once(config.php): failed to open stream: No such file or directory in /home/tugaspabw/public_html/2414101050.tugaspabw.site/Ecommerces1/admin/index.php on line 5
+[01-Nov-2025 11:50:57 UTC] PHP Fatal error:  require_once(): Failed opening required 'config.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/tugaspabw/public_html/2414101050.tugaspabw.site/Ecommerces1/admin/index.php on line 5
+[01-Nov-2025 11:50:57 UTC] PHP Warning:  require_once(config.php): failed to open stream: No such file or directory in /home/tugaspabw/public_html/2414101050.tugaspabw.site/Ecommerces1/admin/index.php on line 5
+[01-Nov-2025 11:50:57 UTC] PHP Fatal error:  require_once(): Failed opening required 'config.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/tugaspabw/public_html/2414101050.tugaspabw.site/Ecommerces1/admin/index.php on line 5
+[01-Nov-2025 11:51:06 UTC] PHP Warning:  require_once(config.php): failed to open stream: No such file or directory in /home/tugaspabw/public_html/2414101050.tugaspabw.site/Ecommerces1/admin/index.php on line 5
+[01-Nov-2025 11:51:06 UTC] PHP Fatal error:  require_once(): Failed opening required 'config.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/tugaspabw/public_html/2414101050.tugaspabw.site/Ecommerces1/admin/index.php on line 5
+[01-Nov-2025 11:54:20 UTC] PHP Warning:  require_once(../session_check.php): failed to open stream: No such file or directory in /home/tugaspabw/public_html/2414101050.tugaspabw.site/Ecommerces1/admin/index.php on line 6
+[01-Nov-2025 11:54:20 UTC] PHP Fatal error:  require_once(): Failed opening required '../session_check.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/tugaspabw/public_html/2414101050.tugaspabw.site/Ecommerces1/admin/index.php on line 6
+[01-Nov-2025 11:54:22 UTC] PHP Warning:  require_once(../session_check.php): failed to open stream: No such file or directory in /home/tugaspabw/public_html/2414101050.tugaspabw.site/Ecommerces1/admin/index.php on line 6
+[01-Nov-2025 11:54:22 UTC] PHP Fatal error:  require_once(): Failed opening required '../session_check.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/tugaspabw/public_html/2414101050.tugaspabw.site/Ecommerces1/admin/index.php on line 6
+[01-Nov-2025 11:54:22 UTC] PHP Warning:  require_once(../session_check.php): failed to open stream: No such file or directory in /home/tugaspabw/public_html/2414101050.tugaspabw.site/Ecommerces1/admin/index.php on line 6
+[01-Nov-2025 11:54:22 UTC] PHP Fatal error:  require_once(): Failed opening required '../session_check.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/tugaspabw/public_html/2414101050.tugaspabw.site/Ecommerces1/admin/index.php on line 6
+[01-Nov-2025 11:54:22 UTC] PHP Warning:  require_once(../session_check.php): failed to open stream: No such file or directory in /home/tugaspabw/public_html/2414101050.tugaspabw.site/Ecommerces1/admin/index.php on line 6
+[01-Nov-2025 11:54:22 UTC] PHP Fatal error:  require_once(): Failed opening required '../session_check.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/tugaspabw/public_html/2414101050.tugaspabw.site/Ecommerces1/admin/index.php on line 6
+[01-Nov-2025 11:54:22 UTC] PHP Warning:  require_once(../session_check.php): failed to open stream: No such file or directory in /home/tugaspabw/public_html/2414101050.tugaspabw.site/Ecommerces1/admin/index.php on line 6
+[01-Nov-2025 11:54:22 UTC] PHP Fatal error:  require_once(): Failed opening required '../session_check.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/tugaspabw/public_html/2414101050.tugaspabw.site/Ecommerces1/admin/index.php on line 6
+[01-Nov-2025 11:54:22 UTC] PHP Warning:  require_once(../session_check.php): failed to open stream: No such file or directory in /home/tugaspabw/public_html/2414101050.tugaspabw.site/Ecommerces1/admin/index.php on line 6
+[01-Nov-2025 11:54:22 UTC] PHP Fatal error:  require_once(): Failed opening required '../session_check.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/tugaspabw/public_html/2414101050.tugaspabw.site/Ecommerces1/admin/index.php on line 6
+[01-Nov-2025 11:54:22 UTC] PHP Warning:  require_once(../session_check.php): failed to open stream: No such file or directory in /home/tugaspabw/public_html/2414101050.tugaspabw.site/Ecommerces1/admin/index.php on line 6
+[01-Nov-2025 11:54:22 UTC] PHP Fatal error:  require_once(): Failed opening required '../session_check.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/tugaspabw/public_html/2414101050.tugaspabw.site/Ecommerces1/admin/index.php on line 6
+[01-Nov-2025 11:56:05 UTC] PHP Warning:  require_once(config.php): failed to open stream: No such file or directory in /home/tugaspabw/public_html/2414101050.tugaspabw.site/Ecommerces1/admin/index.php on line 8
+[01-Nov-2025 11:56:05 UTC] PHP Fatal error:  require_once(): Failed opening required 'config.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/tugaspabw/public_html/2414101050.tugaspabw.site/Ecommerces1/admin/index.php on line 8
+[01-Nov-2025 11:58:12 UTC] PHP Warning:  require_once(config.php): failed to open stream: No such file or directory in /home/tugaspabw/public_html/2414101050.tugaspabw.site/Ecommerces1/admin/pesanan.php on line 3
+[01-Nov-2025 11:58:12 UTC] PHP Fatal error:  require_once(): Failed opening required 'config.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/tugaspabw/public_html/2414101050.tugaspabw.site/Ecommerces1/admin/pesanan.php on line 3
+[01-Nov-2025 11:59:10 UTC] PHP Warning:  require_once(config.php): failed to open stream: No such file or directory in /home/tugaspabw/public_html/2414101050.tugaspabw.site/Ecommerces1/admin/produk.php on line 3
+[01-Nov-2025 11:59:10 UTC] PHP Fatal error:  require_once(): Failed opening required 'config.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/tugaspabw/public_html/2414101050.tugaspabw.site/Ecommerces1/admin/produk.php on line 3
+[01-Nov-2025 11:59:58 UTC] PHP Warning:  require_once(config.php): failed to open stream: No such file or directory in /home/tugaspabw/public_html/2414101050.tugaspabw.site/Ecommerces1/admin/produk_form.php on line 4
+[01-Nov-2025 11:59:58 UTC] PHP Fatal error:  require_once(): Failed opening required 'config.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/tugaspabw/public_html/2414101050.tugaspabw.site/Ecommerces1/admin/produk_form.php on line 4
+[01-Nov-2025 12:02:34 UTC] PHP Warning:  require_once(config.php): failed to open stream: No such file or directory in /home/tugaspabw/public_html/2414101050.tugaspabw.site/Ecommerces1/admin/produk_save.php on line 3
+[01-Nov-2025 12:02:34 UTC] PHP Fatal error:  require_once(): Failed opening required 'config.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/tugaspabw/public_html/2414101050.tugaspabw.site/Ecommerces1/admin/produk_save.php on line 3
